@@ -1,10 +1,9 @@
 #Screensaver mod config
 #the image path for the screensaver,case-sensitive.
-#You can use the command "/debug-image list" command to view all of the loaded images.
+#You can use the command "/debug-image list" command to view all the loaded images.
 #If you want to reload the same path image that you can use the command "/debug-image remove <path>" and F3+T to reload.
 #default = config/screensaver.png
 path = "default"
 #After what seconds to display the screensaver
 #Range: 0 ~ 9223372036854775807
 timeout = 300
-
